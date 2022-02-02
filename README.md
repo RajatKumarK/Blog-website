@@ -1,2 +1,2 @@
-# Blog-website
-A simple blog Website made using React Js, Express Js &amp; MongoDB. This is a CRUD website, where users can create read, delete, post, like, disklike each Other's website   
+# Blog-Website
+This is a blog website built using express and node js . The database used is mongodb. This Website implements  CRUD .
